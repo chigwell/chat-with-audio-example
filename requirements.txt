@@ -1,8 +1,6 @@
 chromadb==0.5.0
 langchain==0.2.1
 langchain-community==0.2.1
-langchain-core==0.2.3
-langchain-text-splitters==0.2.0
 pydub==0.25.1
 rich==13.7.1
 sentence-transformers==3.0.0
