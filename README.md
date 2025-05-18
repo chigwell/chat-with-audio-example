@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
+
 # Chat With Audio Example
 
 This Python project demonstrates how to integrate audio processing with a conversational retrieval chain using various libraries including LangChain, pydub, and SpeechRecognition. The application converts spoken language to text, processes it, and utilizes a conversational AI model to generate responses.
